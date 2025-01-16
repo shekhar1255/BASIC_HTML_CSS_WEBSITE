@@ -151,6 +151,7 @@
   overflow: hidden;
   transition-delay: 0s;
   position: relative;
+  vertical-align: bottom;
 }
 
 .ims:hover {
@@ -219,6 +220,7 @@
   width: 400px;
   align-items: center;
   justify-content: center;
+  
 }
 
 .right_slide {
@@ -276,4 +278,5 @@
   animation-iteration-count: infinite;
   animation-name: rotate;
   animation-timing-function: linear;
+  position: relative;
 }
